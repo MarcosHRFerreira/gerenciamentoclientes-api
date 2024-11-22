@@ -22,7 +22,10 @@ public class ListarClienteAdapter implements ListarClienteInterface {
 
     @Override
     public List<Cliente> listarClientes(){
-        return clienteRepository.findAll().stream().map(clienteEntityMapper::toClienteResponse).toList();
+        return clienteRepository
+                .findAll()
+                .stream()
+                .map(clienteEntityMapper::toClienteResponse).toList();
     }
 
 }
