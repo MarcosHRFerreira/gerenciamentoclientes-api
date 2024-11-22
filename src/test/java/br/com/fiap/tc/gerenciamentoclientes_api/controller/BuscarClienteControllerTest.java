@@ -1,4 +1,4 @@
-package br.com.fiap.tc.gerenciamentoclientes_api;
+package br.com.fiap.tc.gerenciamentoclientes_api.controller;
 
 import br.com.fiap.tc.gerenciamentoclientes_api.application.controller.BuscarClienteController;
 import br.com.fiap.tc.gerenciamentoclientes_api.domain.entity.Cliente;
