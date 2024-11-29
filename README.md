@@ -1,4 +1,4 @@
-# CatalogoProdutos-API
+# gerenciamentoclientes-API
 
 ### Proposta de projeto pós-graduação FIAP - Tech Challenge - fase 4
 
